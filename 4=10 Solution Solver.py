@@ -18,7 +18,12 @@ arr = []
 n = len(num)
 a = list(num)
 test = []
-op = "+-*/"
+
+if input("Do u have All operators?: (y/n)").upper() == "Y":
+    op = "+-*/"
+else:
+    op = input("Enter the available operators like *+- ")
+
 
 # Function call
 permute(a, 0, n)
