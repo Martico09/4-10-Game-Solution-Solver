@@ -8,7 +8,6 @@ the solution how those 4 digits can make 10.
 4=10 Game 
 <a href='https://play.google.com/store/apps/details?id=app.fourequalsten.fourequalsten_app'>App Link</a>
 <br>
-<br>
 Publisher: Sveinn Steinarsson 
 <br>
 Platform: Android
