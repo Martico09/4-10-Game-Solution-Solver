@@ -14,4 +14,4 @@ Platform: Android
 -No additional dependencies needed
 
 <br>
-![Sample Image]()
+![Sample Image](./sample.jpg)
