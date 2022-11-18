@@ -13,7 +13,7 @@ def permute(a, l, r):
 
 
 num = input("Enter the digits = ")  #input the digits
-res = 10 
+res = 10 #Result Digit
 arr = []
 n = len(num)
 a = list(num)
@@ -37,4 +37,8 @@ for z in test:
                       arr.append(q)
 
 #For all possible solutions run --> print(arr[])
-print(f"Solution = {arr[0]}")
+
+try:
+    print(f"Solution = {arr[0]}")
+except IndexError:
+    print(f"No possible Solution for {num}")
