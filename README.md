@@ -22,4 +22,4 @@ Platform: Android
 <br>
 
 <br>
-<img src="sample.jpg" alt="Example">
+<img src="sample.jpg" alt="Example" height="400">
