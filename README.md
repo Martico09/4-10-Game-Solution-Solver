@@ -22,4 +22,4 @@ Platform: Android
 <br>
 
 <br>
-![Sample Image](./sample.jpg)
+<img src="sample.jpg" alt="Example">
